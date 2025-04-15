@@ -4,8 +4,6 @@ Eu sou a Isabella Meireles e moro no interior de Goiás. Atualmente, estou cursa
 
 Você consegue me encontrar no [linkedin](https://www.linkedin.com/in/isabella-meireles/) 
 
-<br/>
-
 ---
 
 ### Linguagens e Tecnologias 🤖
